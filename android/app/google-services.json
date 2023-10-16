@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055984378669",
+    "project_id": "education-app-tdd",
+    "storage_bucket": "education-app-tdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055984378669:android:dc4f1f63941e8e9affa9a4",
+        "android_client_info": {
+          "package_name": "com.example.education_app_using_tdd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLBBihZV2gZzjMez9HxHM720fm18mvMW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
